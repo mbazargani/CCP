@@ -4,7 +4,7 @@
 ---
 [Fernando G. Lobo](http://www.fernandolobo.info/), [Mosab Bazargani](http://www.eecs.qmul.ac.uk/profiles/bazarganimosab.html), and [Edmund K. Burke](https://scholar.google.co.uk/citations?user=rUHfmpQAAAAJ&hl=en&oi=ao)
 
-[This website](https://mbazargani.github.io/CCP/) provides supplementary material for the research work described in the paper A Cutoff Time Strategy based on the Coupon Collector's Problem. The results given in this website were obtained from a comprehensive series of experiments on benchmarks of three well-known combinatorial optimization problems: Travelling Salesman Problem (TSP), Quadratic Assignment Problem (QAP), and Permutation Flowshop Scheduling Problem (PFSP).
+[This website](https://mbazargani.github.io/CCPcutoffTime/) provides supplementary material for the research work described in the paper A Cutoff Time Strategy based on the Coupon Collector's Problem. The results given in this website were obtained from a comprehensive series of experiments on benchmarks of three well-known combinatorial optimization problems: Travelling Salesman Problem (TSP), Quadratic Assignment Problem (QAP), and Permutation Flowshop Scheduling Problem (PFSP).
 
 Due to space restrictions, the above referenced paper only contains a subset of the results. In this website the complete results for all problem instances are presented. The paper abstract is replicated below.
 
