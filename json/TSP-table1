@@ -1,0 +1,750 @@
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">d657</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">61,251</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">514,969</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">51,120</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.9772049514791753e-05>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">23,593,510</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">49,847</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">219,937,071</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">55,150</td>
+                                                            <td style="text-align: right;">5,395,759</td>
+                                                            <td style="text-align: right;">51,117</td>
+                                                            <td style="text-align: right;">26,678,981</td>
+                                                            <td style="text-align: right;">49,847</td>
+                                                            <td style="text-align: right;">218,830,340</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">u724</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">51,477</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">697,535</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">44,103</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=6.41295890053068e-08>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">26,656,165</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">42,988</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">245,731,657</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">47,335</td>
+                                                            <td style="text-align: right;">6,777,421</td>
+                                                            <td style="text-align: right;">44,100</td>
+                                                            <td style="text-align: right;">30,739,124</td>
+                                                            <td style="text-align: right;">42,988</td>
+                                                            <td style="text-align: right;">244,866,131</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">rat783</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">10,951</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.895900458013434e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">773,539</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">9,355</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=7.452277712828576e-07>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">28,195,425</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">9,102</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">259,161,665</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">9,931</td>
+                                                            <td style="text-align: right;">8,307,722</td>
+                                                            <td style="text-align: right;">9,353</td>
+                                                            <td style="text-align: right;">33,017,915</td>
+                                                            <td style="text-align: right;">9,102</td>
+                                                            <td style="text-align: right;">258,762,861</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">dsj1000</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">21,956,733</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">1,961,503</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">19,551,985</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=2.7015948487105512e-05>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">40,645,972</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">19,069,986</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">363,878,574</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">21,192,864</td>
+                                                            <td style="text-align: right;">13,188,870</td>
+                                                            <td style="text-align: right;">19,551,553</td>
+                                                            <td style="text-align: right;">48,322,823</td>
+                                                            <td style="text-align: right;">19,069,986</td>
+                                                            <td style="text-align: right;">364,651,493</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">pr1002</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">307,667</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">1,838,199</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">271,700</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=5.601761882966655e-06>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">40,632,900</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">265,167</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">364,699,403</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">294,950</td>
+                                                            <td style="text-align: right;">13,590,516</td>
+                                                            <td style="text-align: right;">271,673</td>
+                                                            <td style="text-align: right;">48,527,566</td>
+                                                            <td style="text-align: right;">265,167</td>
+                                                            <td style="text-align: right;">365,490,160</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">u1060</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">263,251</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">2,251,730</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">235,081</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.0661240983719006e-12>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">43,575,501</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">228,905</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">388,940,498</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">254,568</td>
+                                                            <td style="text-align: right;">17,635,314</td>
+                                                            <td style="text-align: right;">235,024</td>
+                                                            <td style="text-align: right;">54,775,346</td>
+                                                            <td style="text-align: right;">228,903</td>
+                                                            <td style="text-align: right;">390,690,380</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">vm1084</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">283,850</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">2,397,874</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">251,999</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=7.661226679885207e-08>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">45,711,125</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">245,305</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">401,889,706</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">273,433</td>
+                                                            <td style="text-align: right;">16,142,768</td>
+                                                            <td style="text-align: right;">251,974</td>
+                                                            <td style="text-align: right;">55,354,986</td>
+                                                            <td style="text-align: right;">245,305</td>
+                                                            <td style="text-align: right;">403,407,158</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">pcb1173</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">67,856</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.895900458013434e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">2,750,686</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">60,874</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.6598585025295072e-07>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">49,698,490</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">58,820</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">437,049,988</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">65,564</td>
+                                                            <td style="text-align: right;">18,748,996</td>
+                                                            <td style="text-align: right;">60,865</td>
+                                                            <td style="text-align: right;">61,139,019</td>
+                                                            <td style="text-align: right;">58,820</td>
+                                                            <td style="text-align: right;">439,606,990</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">d1291</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">63,403</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">3,734,601</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">54,596</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=7.364371412569183e-10>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">57,449,553</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">52,519</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">494,170,939</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">60,531</td>
+                                                            <td style="text-align: right;">25,149,623</td>
+                                                            <td style="text-align: right;">54,577</td>
+                                                            <td style="text-align: right;">72,406,990</td>
+                                                            <td style="text-align: right;">52,519</td>
+                                                            <td style="text-align: right;">498,249,063</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">rl1304</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">308,251</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">4,182,680</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">271,339</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=5.147521569455828e-09>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">59,107,537</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">260,314</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">504,785,122</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">296,697</td>
+                                                            <td style="text-align: right;">24,466,150</td>
+                                                            <td style="text-align: right;">271,317</td>
+                                                            <td style="text-align: right;">73,541,174</td>
+                                                            <td style="text-align: right;">260,314</td>
+                                                            <td style="text-align: right;">508,833,000</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">rl1323</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">328,516</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">4,308,664</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">287,609</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.1721205905986644e-06>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">60,459,269</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">277,529</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">513,434,134</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">316,227</td>
+                                                            <td style="text-align: right;">25,110,235</td>
+                                                            <td style="text-align: right;">287,563</td>
+                                                            <td style="text-align: right;">75,126,366</td>
+                                                            <td style="text-align: right;">277,529</td>
+                                                            <td style="text-align: right;">517,749,664</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">nrw1379</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">65,513</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">3,693,985</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">60,333</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=7.667240951415792e-08>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">59,886,597</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">58,609</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">520,334,433</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">63,869</td>
+                                                            <td style="text-align: right;">25,903,663</td>
+                                                            <td style="text-align: right;">60,325</td>
+                                                            <td style="text-align: right;">76,053,748</td>
+                                                            <td style="text-align: right;">58,609</td>
+                                                            <td style="text-align: right;">525,852,023</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">fl1400</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">22,625</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896120241954008e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">3,954,084</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">20,738</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=5.562019476749145e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">57,279,318</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">20,416</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=0.0005775504027930901>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">491,071,056</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">21,792</td>
+                                                            <td style="text-align: right;">50,807,753</td>
+                                                            <td style="text-align: right;">20,713</td>
+                                                            <td style="text-align: right;">92,113,635</td>
+                                                            <td style="text-align: right;">20,415</td>
+                                                            <td style="text-align: right;">500,415,043</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">u1432</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">177,439</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">3,677,564</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">160,921</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.892385512934327e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">65,774,903</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">156,773</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.140703283274313e-06>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">557,984,513</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">167,483</td>
+                                                            <td style="text-align: right;">56,519,086</td>
+                                                            <td style="text-align: right;">160,285</td>
+                                                            <td style="text-align: right;">106,073,202</td>
+                                                            <td style="text-align: right;">156,736</td>
+                                                            <td style="text-align: right;">570,563,037</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">fl1577</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">26,759</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896120241954008e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">6,545,593</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">23,653</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.2057622641473608e-17>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">74,369,318</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">22,739</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.926147555990282e-05>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">618,350,391</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">25,597</td>
+                                                            <td style="text-align: right;">55,302,246</td>
+                                                            <td style="text-align: right;">23,624</td>
+                                                            <td style="text-align: right;">114,133,007</td>
+                                                            <td style="text-align: right;">22,736</td>
+                                                            <td style="text-align: right;">633,245,010</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">d1655</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">74,007</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">6,931,054</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">66,775</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=5.5202138008487456e-17>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">79,123,581</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">64,488</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=0.00043295147541086676>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">660,649,841</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">72,072</td>
+                                                            <td style="text-align: right;">49,702,607</td>
+                                                            <td style="text-align: right;">66,724</td>
+                                                            <td style="text-align: right;">113,135,477</td>
+                                                            <td style="text-align: right;">64,484</td>
+                                                            <td style="text-align: right;">675,212,122</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">vm1748</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">389,027</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">8,257,394</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">358,263</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=2.4091572034298467e-13>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">86,368,360</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">346,876</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">712,241,896</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">383,297</td>
+                                                            <td style="text-align: right;">47,365,576</td>
+                                                            <td style="text-align: right;">358,218</td>
+                                                            <td style="text-align: right;">116,565,531</td>
+                                                            <td style="text-align: right;">346,876</td>
+                                                            <td style="text-align: right;">724,488,259</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">u1817</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">69,280</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">8,296,858</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">62,160</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.773241755039428e-17>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">92,454,034</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">59,496</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=5.541086819650351e-06>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">752,937,169</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">67,047</td>
+                                                            <td style="text-align: right;">73,886,364</td>
+                                                            <td style="text-align: right;">62,079</td>
+                                                            <td style="text-align: right;">146,744,901</td>
+                                                            <td style="text-align: right;">59,490</td>
+                                                            <td style="text-align: right;">774,133,920</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">rl1889</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">377,681</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">10,690,788</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">341,303</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=2.452299671043538e-14>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">97,781,714</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">328,672</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">788,915,608</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">370,144</td>
+                                                            <td style="text-align: right;">54,243,507</td>
+                                                            <td style="text-align: right;">341,199</td>
+                                                            <td style="text-align: right;">134,546,216</td>
+                                                            <td style="text-align: right;">328,668</td>
+                                                            <td style="text-align: right;">805,355,950</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">d2103</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">98,924</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">12,318,406</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">89,555</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=7.935017402381698e-16>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">111,923,248</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">86,204</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=0.01775592261403605>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">879,397,169</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">96,230</td>
+                                                            <td style="text-align: right;">80,838,468</td>
+                                                            <td style="text-align: right;">89,482</td>
+                                                            <td style="text-align: right;">164,640,936</td>
+                                                            <td style="text-align: right;">86,203</td>
+                                                            <td style="text-align: right;">903,148,358</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">u2152</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">77,120</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">12,741,283</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">70,147</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=5.687391206632164e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">115,321,096</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">66,907</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.490137030693514e-09>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">923,093,001</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">75,197</td>
+                                                            <td style="text-align: right;">115,058,544</td>
+                                                            <td style="text-align: right;">70,011</td>
+                                                            <td style="text-align: right;">202,445,986</td>
+                                                            <td style="text-align: right;">66,894</td>
+                                                            <td style="text-align: right;">967,606,649</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">u2319</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">253,531</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">9,436,188</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">240,733</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.882734907780338e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">124,619,375</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">238,274</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.344806253179295e-13>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">968,811,304</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">240,265</td>
+                                                            <td style="text-align: right;">207,031,351</td>
+                                                            <td style="text-align: right;">239,070</td>
+                                                            <td style="text-align: right;">276,355,283</td>
+                                                            <td style="text-align: right;">238,070</td>
+                                                            <td style="text-align: right;">1,043,247,422</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">pr2392</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">443,085</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">16,713,979</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">408,591</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.6461498054476498e-13>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">129,376,707</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">392,655</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">1,026,520,610</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">438,697</td>
+                                                            <td style="text-align: right;">87,714,340</td>
+                                                            <td style="text-align: right;">408,528</td>
+                                                            <td style="text-align: right;">186,141,923</td>
+                                                            <td style="text-align: right;">392,655</td>
+                                                            <td style="text-align: right;">1,057,515,366</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">pcb3038</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">160,072</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.895900458013434e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">28,181,430</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">150,482</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.6753206892360098e-14>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">175,971,972</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">144,227</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">1,340,996,023</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">158,887</td>
+                                                            <td style="text-align: right;">143,729,552</td>
+                                                            <td style="text-align: right;">150,439</td>
+                                                            <td style="text-align: right;">273,159,275</td>
+                                                            <td style="text-align: right;">144,227</td>
+                                                            <td style="text-align: right;">1,400,291,202</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">fl3795</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">33,144</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">61,247,721</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">31,213</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.8840495625051566e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">266,015,520</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">30,268</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.1409273468448229e-15>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">1,812,086,814</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">32,305</td>
+                                                            <td style="text-align: right;">523,236,487</td>
+                                                            <td style="text-align: right;">31,099</td>
+                                                            <td style="text-align: right;">678,098,489</td>
+                                                            <td style="text-align: right;">30,256</td>
+                                                            <td style="text-align: right;">2,142,854,372</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">fnl4461</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">207,596</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.895680685825538e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">64,994,492</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">198,920</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.728208730391509e-16>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">298,538,578</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">192,143</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"></td>
+                                                            <td style="text-align: right;">2,107,619,713</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">206,753</td>
+                                                            <td style="text-align: right;">315,894,187</td>
+                                                            <td style="text-align: right;">198,852</td>
+                                                            <td style="text-align: right;">521,293,806</td>
+                                                            <td style="text-align: right;">192,143</td>
+                                                            <td style="text-align: right;">2,258,021,120</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">rl5915</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">670,302</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.895900458013434e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">168,374,489</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">634,687</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=8.146522452985e-17>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">543,071,250</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">602,222</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=0.011718685599768628>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">3,128,480,316</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">666,228</td>
+                                                            <td style="text-align: right;">650,387,403</td>
+                                                            <td style="text-align: right;">634,296</td>
+                                                            <td style="text-align: right;">976,648,652</td>
+                                                            <td style="text-align: right;">602,216</td>
+                                                            <td style="text-align: right;">3,425,432,598</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">rl5934</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">659,863</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896120241954008e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">172,700,589</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">623,598</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=2.5484299208514665e-16>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">533,000,388</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">590,988</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=5.429831166995355e-06>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">3,117,057,609</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">657,195</td>
+                                                            <td style="text-align: right;">643,924,314</td>
+                                                            <td style="text-align: right;">623,278</td>
+                                                            <td style="text-align: right;">968,002,340</td>
+                                                            <td style="text-align: right;">590,976</td>
+                                                            <td style="text-align: right;">3,457,223,895</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">brd14051</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">531,594</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.8945820011567e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">949,751,446</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">519,132</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=8.319149922677276e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">1,869,730,437</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">501,102</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=7.544763985739939e-08>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">8,661,990,040</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">531,192</td>
+                                                            <td style="text-align: right;">3,680,604,957</td>
+                                                            <td style="text-align: right;">519,035</td>
+                                                            <td style="text-align: right;">4,456,229,509</td>
+                                                            <td style="text-align: right;">501,098</td>
+                                                            <td style="text-align: right;">10,781,968,692</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td rowspan="2"; style="text-align: left; vertical-align: middle;">d15112</td>
+                                                            <td style="text-align: center;">2%</td>
+                                                            <td style="text-align: right;">1,782,021</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896340037647931e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">1,068,998,136</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">1,742,319</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.895021439772567e-18>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">2,073,672,402</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                            <td style="text-align: right;">1,677,991</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=1.1693601119091361e-06>&#x203B;</abbr></td>
+                                                            <td style="text-align: right;">9,508,700,491</td>
+                                                            <td rowspan="2"; style="text-align: center; vertical-align: middle;"><abbr title=3.896559845095909e-18>&bull;</abbr></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="text-align: center;">CCP</td>
+                                                            <td style="text-align: right;">1,780,787</td>
+                                                            <td style="text-align: right;">4,062,973,356</td>
+                                                            <td style="text-align: right;">1,742,003</td>
+                                                            <td style="text-align: right;">4,958,516,523</td>
+                                                            <td style="text-align: right;">1,677,979</td>
+                                                            <td style="text-align: right;">11,939,113,401</td>
+                                                        </tr>

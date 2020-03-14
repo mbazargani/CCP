@@ -1,0 +1,261 @@
+<script>
+  init({
+    title: '<h2>Quadratic Assignment Problem (QAP)</h2><hr>',
+    desc: '<p align="justify"; style="font-size:15px"><span style="font-weight: bold;">Table 1:</span> Summary of results obtained for the QAP instances with three settings of the history length <i>L<sub>h</sub></i> &#8712; {1, 5000, 50000}. 100 independent runs were made for each combination of problem instance and <i>L<sub>h</sub></i> value. The table reports how many of those runs the CCP strategy reached a better, equal, or worse solution cost, than the 2% cutoff strategy (labeled as <, = or >, under the Cost columns). It also reports in how many of those runs the CCP strategy took less or more iterations to stop than the 2% strategy (labeled as  < or >, under Iterations). The CCP cutoff time is calculated using a confidence level <i>p</i> = 0.95.</p>',
+    links: [
+      'bootstrap-table.min.css',
+      'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'
+    ],
+    scripts: [
+      'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML',
+      'https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js',
+      'bootstrap-table.min.js',
+      'https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table-locale-all.min.js',
+      'extensions/export/bootstrap-table-export.min.js'
+      
+    ]
+  })
+</script>
+
+
+<table
+  id="table"
+  data-buttons-align="left"
+  data-search-align="left"
+  data-locale="en-US"
+  data-toolbar="#toolbar"
+  data-cookie="false"
+  #data-cookie-id-table="saveId"
+  data-search="true"
+  data-show-refresh="true"
+  data-show-toggle="false"
+  data-show-fullscreen="true"
+  data-show-columns="false"
+  data-detail-view="false"
+  data-show-export="true"
+  data-click-to-select="false"
+  #data-detail-formatter="detailFormatter"
+  #data-minimum-count-columns="2"
+  data-show-pagination-switch="true"
+  data-pagination="true"
+  data-id-field="id"
+  data-page-list="[50, 100, all]"
+  data-page-size="50"
+  data-show-footer="false"
+  #data-side-pagination="server"
+  data-url="json/QAP-table1.json"
+  data-response-handler="responseHandler"
+  class="table table-striped table-bordered table-sm col-md-12" 
+  cellspacing="0"
+  width="100%">
+</table>
+
+<script>
+  var $table = $('#table')
+  var selections = []
+
+  function getIdSelections() {
+    return $.map($table.bootstrapTable('getSelections'), function (row) {
+      return row.id
+    })
+  }
+
+  function responseHandler(res) {
+    $.each(res.rows, function (i, row) {
+      row.state = $.inArray(row.id, selections) !== -1
+    })
+    return res
+  }
+
+  window.operateEvents = {
+    'click .like': function (e, value, row, index) {
+      alert('You click like action, row: ' + JSON.stringify(row))
+    },
+    'click .remove': function (e, value, row, index) {
+      $table.bootstrapTable('remove', {
+        field: 'id',
+        values: [row.id]
+      })
+    }
+  }
+
+  function initTable() {
+    $table.bootstrapTable('destroy').bootstrapTable({
+      height: 550,
+      locale: $('#locale').val(),
+      columns: [
+        [ {
+          title: 'Dataset',
+          field: 'id',
+          rowspan: 3,
+          align: 'center',
+          valign: 'middle',
+          sortable: true,
+          width: 100
+          }, {
+          title: 'Instance<br>Size',
+          field: 'instanceSize',
+          rowspan: 3,
+          align: 'center',
+          valign: 'middle',
+          sortable: true,
+          width: 100
+        }, {
+          title: '<i>L<sub>h</sub></i> = 1',
+          colspan: 5,
+          align: 'center'
+        }, {
+          title: '<i>L<sub>h</sub></i> = 5000',
+          colspan: 5,
+          align: 'center'
+        }, {
+          title: '<i>L<sub>h</sub></i> = 50000',
+          colspan: 5,
+          align: 'center'
+        }],
+        [ {
+          title: 'Cost<br><small>(CCP vs. 2%)</small>',
+          colspan: 3,
+          align: 'center'
+        }, {
+          title: 'Iterations<br><small>(CCP vs. 2%)</small>',
+          colspan: 2,
+          align: 'center'
+        }, {
+          title: 'Cost<br><small>(CCP vs. 2%)</small>',
+          colspan: 3,
+          align: 'center'
+        }, {
+          title: 'Iterations<br><small>(CCP vs. 2%)</small>',
+          colspan: 2,
+          align: 'center'
+        }, {
+          title: 'Cost<br><small>(CCP vs. 2%)</small>',
+          colspan: 3,
+          align: 'center'
+        }, {
+          title: 'Iterations<br><small>(CCP vs. 2%)</small>',
+          colspan: 2,
+          align: 'center'
+        }],
+        [{
+          field: 'costBetter1',
+          title: '<',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costEqual1',
+          title: '=',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costWorse1',
+          title: '>',
+          align: 'right',
+          sortable: false,
+          width: 50
+        }, {
+          field: 'iterationsBetter1',
+          title: '<',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'iterationsWorse1',
+          title: '>',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costBetter5k',
+          title: '<',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costEqual5k',
+          title: '=',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costWorse5k',
+          title: '>',
+          align: 'right',
+          sortable: false,
+          width: 50
+        }, {
+          field: 'iterationsBetter5k',
+          title: '<',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'iterationsWorse5k',
+          title: '>',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costBetter50k',
+          title: '<',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costEqual50k',
+          title: '=',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'costWorse50k',
+          title: '>',
+          align: 'right',
+          sortable: false,
+          width: 50
+        }, {
+          field: 'iterationsBetter50k',
+          title: '<',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }, {
+          field: 'iterationsWorse50k',
+          title: '>',
+          sortable: false,
+          align: 'right',
+          width: 50
+        }]
+      ]
+    })
+    $table.on('check.bs.table uncheck.bs.table ' +
+      'check-all.bs.table uncheck-all.bs.table',
+    function () {
+      $remove.prop('disabled', !$table.bootstrapTable('getSelections').length)
+
+      // save your data, here just save the current page
+      selections = getIdSelections()
+      // push or splice the selections if you want to save all data selections
+    })
+    $table.on('all.bs.table', function (e, name, args) {
+      console.log(name, args)
+    })
+    $remove.click(function () {
+      var ids = getIdSelections()
+      $table.bootstrapTable('remove', {
+        field: 'id',
+        values: ids
+      })
+      $remove.prop('disabled', true)
+    })
+  }
+
+  function mounted() {
+    initTable()   
+    $('#locale').change(initTable)
+
+  }
+</script>

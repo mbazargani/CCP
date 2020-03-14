@@ -1,0 +1,208 @@
+<script>
+  init({
+    title: '<h2>Permutation Flowshop Scheduling Problem (PFSP)</h2><hr>',
+    desc: '<p align="justify"; style="font-size:15px"><span style="font-weight: bold;">Table 8:</span> Analysis over the neighbours of the current solution obtained by <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0377221716305495">LAHC<span class="icon icon-link-external fa fa-external-link fa-fw "></span></a> on all <a target="_blank" href="http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html">Taillard<span class="icon icon-link-external fa fa-external-link fa-fw "></span></a> and <a target="_blank" href="http://soa.iti.es/problem-instances">VFR<span class="icon icon-link-external fa fa-external-link fa-fw "></span></a> instances, for both cutoff strategies. <i>I<sub>move</sub></i> denotes the average number of improving moves over 100 independent runs at the cutoff time. <i>I<sub>max</sub></i> denotes the maximum number of improving moves in a single run out of 100 independent runs. <i>Local Optimum</i> denotes the percentage of runs where the current solution at the cutoff point was at a local optimum. Underlined entries are statistical significant with a <i>p-value</i> < 0.05 according to the Wilcoxon signed-rank test. (To reveal the <i>p-value</i> keep your mouse cursor over the underlined numbers.)</p>',
+    links: [
+      'bootstrap-table.min.css',
+      'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'
+    ],
+    scripts: [
+      'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML',
+      'https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js',
+      'bootstrap-table.min.js',
+      'https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table-locale-all.min.js',
+      'extensions/export/bootstrap-table-export.min.js'
+      
+    ]
+  })
+</script>
+
+
+<table
+  id="table"
+  data-locale="en-UK"
+  data-buttons-align="left"
+  data-search-align="left"
+  data-toolbar="#toolbar"
+  data-cookie="false"
+  #data-cookie-id-table="saveId"
+  data-search="true"
+  data-show-refresh="true"
+  data-show-toggle="false"
+  data-show-fullscreen="true"
+  data-show-columns="false"
+  data-detail-view="false"
+  data-show-export="true"
+  data-click-to-select="false"
+  #data-detail-formatter="detailFormatter"
+  #data-minimum-count-columns="2"
+  data-show-pagination-switch="true"
+  data-pagination="true"
+  data-id-field="id"
+  data-page-list="[50, 100, all]"
+  data-page-size="50"
+  data-show-footer="false"
+  #data-side-pagination="server"
+  data-url="json/PFSP-table8.json"
+  data-response-handler="responseHandler"
+  class="table table-striped table-bordered table-sm " 
+  cellspacing="0"
+  width="100%">
+</table>
+
+<script>
+  var $table = $('#table')
+  var selections = []
+
+  function getIdSelections() {
+    return $.map($table.bootstrapTable('getSelections'), function (row) {
+      return row.id
+    })
+  }
+
+  function responseHandler(res) {
+    $.each(res.rows, function (i, row) {
+      row.state = $.inArray(row.id, selections) !== -1
+    })
+    return res
+  }
+
+  window.operateEvents = {
+    'click .like': function (e, value, row, index) {
+      alert('You click like action, row: ' + JSON.stringify(row))
+    },
+    'click .remove': function (e, value, row, index) {
+      $table.bootstrapTable('remove', {
+        field: 'id',
+        values: [row.id]
+      })
+    }
+  }
+
+  function initTable() {
+    $table.bootstrapTable('destroy').bootstrapTable({
+      height: 550,
+      locale: $('#locale').val(),
+      columns: [
+        [ {
+          title: 'Dataset',
+          field: 'id',
+          rowspan: 2,
+          align: 'center',
+          valign: 'middle',
+          sortable: true,
+          width: '100px'
+        }, {
+          title: 'Instance<br>Size',
+          field: 'instanceSize',
+          rowspan: 2,
+          align: 'center',
+          valign: 'middle',
+          sortable: true,
+          width: '100px'
+        }, {
+          title: 'Stopping<br>Criterion',
+          field: 'cutoffType',
+          rowspan: 2,
+          align: 'center',
+          valign: 'middle',
+          sortable: false,
+          width: '100px'
+        }, {
+          title: '<i>L<sub>h</sub></i> = 1',
+          colspan: 3,
+          align: 'center'
+        }, {
+          title: '<i>L<sub>h</sub></i> = 5000',
+          colspan: 3,
+          align: 'center'
+        }, {
+          title: '<i>L<sub>h</sub></i> = 50000',
+          colspan: 3,
+          align: 'center'
+        }],
+        [{
+          field: 'Imove1',
+          title: '<i>I<sub>move</sub></i>',
+          sortable: false,
+          align: 'right',
+          width: '50px'
+        }, {
+          field: 'Imax1',
+          title: '<i>I<sub>max</sub></i>',
+          sortable: false,
+          align: 'right',
+          width: '50px'
+        }, {
+          field: 'localOptimum1',
+          title: 'Local<br>Optimum',
+          align: 'right',
+          sortable: false,
+          width: '50px'
+        }, {
+          field: 'Imove5k',
+          title: '<i>I<sub>move</sub></i>',
+          sortable: false,
+          align: 'right',
+          width: '50px'
+        }, {
+          field: 'Imax5k',
+          title: '<i>I<sub>max</sub></i>',
+          sortable: false,
+          align: 'right',
+          width: '50px'
+        }, {
+          field: 'localOptimum5k',
+          title: 'Local<br>Optimum',
+          align: 'right',
+          sortable: false,
+          width: '50px'
+        }, {
+          field: 'Imove50k',
+          title: '<i>I<sub>move</sub></i>',
+          sortable: false,
+          align: 'right',
+          width: '50px'
+        }, {
+          field: 'Imax50k',
+          title: '<i>I<sub>max</sub></i>',
+          sortable: false,
+          align: 'right',
+          width: '50px'
+        }, {
+          field: 'localOptimum50k',
+          title: 'Local<br>Optimum',
+          align: 'right',
+          sortable: false,
+          width: '50px'
+        }]
+      ]
+    })
+    $table.on('check.bs.table uncheck.bs.table ' +
+      'check-all.bs.table uncheck-all.bs.table',
+    function () {
+      $remove.prop('disabled', !$table.bootstrapTable('getSelections').length)
+
+      // save your data, here just save the current page
+      selections = getIdSelections()
+      // push or splice the selections if you want to save all data selections
+    })
+    $table.on('all.bs.table', function (e, name, args) {
+      console.log(name, args)
+    })
+    $remove.click(function () {
+      var ids = getIdSelections()
+      $table.bootstrapTable('remove', {
+        field: 'id',
+        values: ids
+      })
+      $remove.prop('disabled', true)
+    })
+  }
+
+  function mounted() {
+    initTable()   
+    $('#locale').change(initTable)
+
+  }
+</script>
