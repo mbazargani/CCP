@@ -1,6 +1,6 @@
 
 # A Cutoff Time Strategy based on the Coupon Collector's Problem
-> Supplementary Material
+> Companion website
 ---
 [Fernando G. Lobo](http://www.fernandolobo.info/), [Mosab Bazargani](http://www.eecs.qmul.ac.uk/profiles/bazarganimosab.html), and [Edmund K. Burke](https://scholar.google.co.uk/citations?user=rUHfmpQAAAAJ&hl=en&oi=ao)
 
